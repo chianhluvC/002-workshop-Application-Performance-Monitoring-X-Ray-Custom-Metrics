@@ -72,7 +72,7 @@ In this step, you will create a serverless application with tracing enabled to m
 
 ![lambda](/images/2-implemetanalysis/005-lambda5.png)
 
-1. Click the **Configuration** tab and then go to **Monitoring and operations tools**
+5. Click the **Configuration** tab and then go to **Monitoring and operations tools**
 
 ![lambda](/images/2-implemetanalysis/006-lambda6.png)
 
