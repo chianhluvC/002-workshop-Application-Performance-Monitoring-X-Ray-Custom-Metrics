@@ -10,7 +10,7 @@ pre : " <b> 4.2 </b> "
 Trong bước này, chúng ta sẽ thực hiện tạo hệ thống cảnh báo. Dịch vụ giúp chúng ta thực hiện Cloudwatch Alarm.
 
 1. Truy cập vào trang quản lý cloud watch
-+ Phần Alarms click chọn vào ** In alarm**
++ Phần Alarms click chọn vào **In alarm**
 + Click chọn vào **Create alarm**
 
 ![alarm](/images/4-dashboardalarm/007-alarm1.png)

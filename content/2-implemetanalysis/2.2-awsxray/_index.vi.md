@@ -25,7 +25,7 @@ Trong bước này chúng ta sẽ tiến hành phân tích kiểm tra ứng dụ
 
 ![xray](/images/2-implemetanalysis/016-xray3.png)
 
-1. Xuất hiện các thông số của Lambda Funtion vừa chọn, gồm các lựa chọn về Metrics, Alerts, Response time distribution và click chọn vào Metrics
+4. Xuất hiện các thông số của Lambda Funtion vừa chọn, gồm các lựa chọn về Metrics, Alerts, Response time distribution và click chọn vào Metrics
 
 + Xem các thông số Latency (avg), Request, Faults
 + Xem các biểu đồ Latency (avg), Request, Faults
