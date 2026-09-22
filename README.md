@@ -3,7 +3,7 @@
 Welcome to the workshop **"Monitoring Application Performance with AWS X-Ray and Custom Metrics"** — a hands-on guide to implementing distributed tracing, analyzing performance bottlenecks, and building real-time monitoring dashboards using AWS services.
 
 🌐 **Live Workshop Site**:  
-👉 [https://002-workshop-application-performance-monitoring.huyanh.click](https://002-workshop-application-performance-monitoring.huyanh.click)
+👉 [https://002-workshop-application-performance-monitoring](https://chianhluvc.github.io/002-workshop-Application-Performance-Monitoring-X-Ray-Custom-Metrics/)
 
 ---
 
